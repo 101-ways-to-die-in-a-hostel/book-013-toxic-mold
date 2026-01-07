@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A wellness influencer who refuses modern medicine suffers progressive respiratory failure from Stachybotrys (black mold) exposure in a damp basement dorm, dying after weeks of ignoring her body's warnings.",
     "long": ""
   },
   "death_type": "Toxic Mold",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Some things can't be cleansed with positive thinking."
 }
